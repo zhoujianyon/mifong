@@ -20,7 +20,13 @@
       "searchable": 1,
       "filterable": 1
     },
-
+     {
+      "key": "drpy_js_豆瓣",
+      "name": "🔥公众号【盒子迷】4K",
+      "type": 3,
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
+    },
 {"key": "量子资源","name": "🥑量子资源","type": 1,"api": "http://cj.lziapi.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"categories": [ "国产剧", "国产动漫","泰国剧", "台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},
 {"key":"wlzy", "name":"🎥┃卧龙┃资源", "type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"wjzy", "name":"🎥┃无尽┃资源", "type":1,"api":"https://api.wujinapi.me/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
