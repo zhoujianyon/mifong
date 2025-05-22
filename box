@@ -20,6 +20,17 @@
       "searchable": 1,
       "filterable": 1
     },
+
+ {
+   "key": "量子资源",
+            "name": "🥑卧龙资源",
+            "type": 1,
+            "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+    },
+
  {
             "key": "量子资源",
             "name": "🥑量子资源",
