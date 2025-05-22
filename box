@@ -20,6 +20,9 @@
       "searchable": 1,
       "filterable": 1
     },
+
+{"key":"jpzy", "name":"🎥┃荐片┃资源", "type":1,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
+
 {"key":"wjzy", "name":"🎥┃无尽┃资源", "type":1,"api":"https://api.wujinapi.me/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"hhzy", "name":"🎥┃豪华┃资源", "type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"snzy", "name":"🎥┃索尼┃资源", "type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
