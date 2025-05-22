@@ -21,15 +21,7 @@
       "filterable": 1
     },
 
- {
-   "key": "卧龙资源",
-            "name": "🥑卧龙资源",
-            "type": 1,
-            "api": "https://api.wujinapi.me/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-    },
+
 {
       "key": "初恋资源",
       "name": "🧡┃初恋┃官源",
