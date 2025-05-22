@@ -5,7 +5,17 @@
 
 {
     "sites": [
-        {
+     {
+      "key": "FreeOk",
+      "name": "公众号【盒子迷】",
+      "type": 3,
+      "api": "csp_FreeOk",
+      "jar": "https://lz.qaiu.top/d/lz/iZZiO2rkmy5g",
+      "searchable": 1,
+      "filterable": 1
+    },   
+
+{
             "key": "小苹果",
             "name": "🍎主力源",
             "type": 3,
