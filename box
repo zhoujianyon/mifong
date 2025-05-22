@@ -48,9 +48,10 @@
                 "爱情片",
                 "喜剧片"
             ]
-        },
-  {"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://apijp.rinhome.com"},     
+        },   
 
+{"key":"荐片","name":"🧲┃荐片┃磁力","type":3,"api":"http://rihou.vip:55/lib/drpy2.min.js","ext":"http://rihou.vip:55/lib/jianpian.js"},
+    
 {
             "key": "t4佬",
             "name": "🍀┃豆瓣精选",
