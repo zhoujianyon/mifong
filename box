@@ -50,8 +50,16 @@
             ]
         },   
 
-{"key":"荐片","name":"🧲┃荐片┃磁力","type":3,"api":"http://rihou.vip:55/lib/drpy2.min.js","ext":"http://rihou.vip:55/lib/jianpian.js"},
-    
+{
+            "key": "荐片",
+            "name": "荐片┃P2P",
+            "type": 3,
+            "api": "csp_JPJGuard",
+            "searchable": 1,
+            "changeable": 1,
+			"timeout": 10
+        },
+
 {
             "key": "t4佬",
             "name": "🍀┃豆瓣精选",
