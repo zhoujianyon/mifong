@@ -54,10 +54,10 @@
             "key": "荐片",
             "name": "荐片┃P2P",
             "type": 3,
-            "api": "csp_JPJGuard",
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+           "playUrl": "",
             "searchable": 1,
-            "changeable": 1,
-			"timeout": 10
+            "quickSearch": 1,
         },
 
 {
