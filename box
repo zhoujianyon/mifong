@@ -7,7 +7,7 @@
 
 
 {
-  "spider": "http://154.12.37.204:8089/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3","https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+  "spider": "http://154.12.37.204:8089/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
   
@@ -38,23 +38,7 @@
             "changeable": 1
         },
 
-      {
-            "key": "豆瓣",
-            "name": "豆瓣┃推荐",
-            "type": 3,
-            "api": "csp_DouDouGuard",
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "荐片",
-            "name": "荐片┃P2P",
-            "type": 3,
-            "api": "csp_JPJGuard",
-            "searchable": 1,
-            "changeable": 1,
-			"timeout": 10
-        },
+     
 
     	 {
       "key": "天天",
