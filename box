@@ -156,8 +156,16 @@
 
       
 
-  {"key": "荐片","name": "🎬┃荐片┃影视","api": "csp_Jianpian","type": 3,"playerType": "2","ext": "http://api2.rinhome.com","jar": "https://raw.liucn.cc/box/libs/jar/Panda.jar"
-    },
+  {
+            "key": "荐片",
+            "name": "荐片┃P2P",
+            "type": 3,
+            "api": "csp_JPJGuard",
+            "searchable": 1,
+            "changeable": 1,
+   "jar": "https://tv.菜妮丝.top/jar/fm0414.jar;md5;fd389e3446f23e76f9112a2097d81884",
+			"timeout": 10
+        },
 
        
        
