@@ -166,7 +166,24 @@
 			"timeout": 10
         },
        
-
+{
+            "key": "哔哩哔哩",
+            "name": "哔哩┃哔哩",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "https://tv.菜妮丝.top/json/bili.json",
+                "type": "帕梅拉#太极拳#广场舞#演唱会",
+                "cookie": ""
+            },
+            "jar": "https://tv.菜妮丝.top/jar/fm0414.jar;md5;fd389e3446f23e76f9112a2097d81884"
+        },
      
         
         {
