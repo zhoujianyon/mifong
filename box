@@ -284,6 +284,219 @@
   "jar": "https://700sjro44343.vicp.fun/vip/jar/ouge.php"
   },
 
+{
+            "key": "原创",
+            "name": "原创┃不卡",
+            "type": 3,
+            "api": "csp_YCyzGuard",
+"jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+            "searchable": 1,
+            "changeable": 1,
+			"timeout": 10
+        },
+        {
+            "key": "苹果",
+            "name": "苹果┃不卡",
+            "type": 3,
+            "api": "csp_LiteAppleGuard",
+"jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+            "searchable": 1,
+            "changeable": 1,
+			"timeout": 10
+        },
+        {
+            "key": "糯米",
+            "name": "糯米┃秒播",
+            "type": 3,
+            "api": "csp_NmyswvGuard",
+"jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+            "searchable": 1,
+            "changeable": 1,
+			"timeout": 10
+        },
+        {
+            "key": "白白",
+            "name": "白白┃秒播",
+            "type": 3,
+            "api": "csp_SbaibaiGuard",
+"jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+            "searchable": 1,
+            "changeable": 1,
+			"timeout": 10
+        },
+        {
+            "key": "文采",
+            "name": "文采┃秒播",
+            "type": 3,
+            "api": "csp_JpysGuard",
+"jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+            "searchable": 1,
+            "changeable": 1,
+			"timeout": 10
+        },
+        {
+            "key": "zxzj",
+            "name": "在线┃秒播",
+            "type": 3,
+            "api": "csp_ZxzjGuard",
+"jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+            "searchable": 1,
+            "changeable": 1,
+			"timeout": 10,
+            "ext": "https://www.zxzjhd.com/"
+        },
+        {
+            "key": "️低端",
+            "name": "低端┃外剧",
+            "api": "csp_DdrkGuard",
+"jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+			"timeout": 10
+        },
+        {
+            "key": "萌米",
+            "name": "萌米┃多线",
+            "type": 3,
+            "api": "csp_AppTTGuard",
+"jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+            "searchable": 1,
+            "changeable": 1,
+			"timeout": 10,
+			"ext": "uqGL1bNENEIVq+dC1p/Y9uWjuA=="
+        },
+        {
+            "key": "热播",
+            "name": "热播┃多线",
+            "type": 3,
+            "api": "csp_AppTTGuard",
+"jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+            "searchable": 1,
+            "changeable": 1,
+			"timeout": 10,
+            "ext": "uqGL1bNENExT7/hGxpSE5qU="
+        },
+        {
+            "key": "水星",
+            "name": "水星┃多线",
+            "api": "csp_AppSxGuard",
+"jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+			"timeout": 10,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+SLP183q3ik3cJDiAwlFdF8L6SIvrvc9LrpTyIg76T7QJZdEkWNj43wiSaA0TJyQpu2IF2jsSLWFx7WkAmG40hFxJ1tI+Jf+EVG8DtoDRcNi+TtVGULnWrSz3EWnVcxR3EJhXnrwYWe1kJtNW5txuHAO"
+        },
+        {
+            "key": "欢视",
+            "name": "欢视┃多线",
+            "type": 3,
+            "api": "csp_AppTTGuard",
+"jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+            "searchable": 1,
+            "changeable": 1,
+			"timeout": 10,
+			"ext": "uqGL1bNENExT9fFAy5mE5qU="
+        },
+        {
+            "key": "奥特",
+            "name": "奥特┃多线",
+            "type": 3,
+            "api": "csp_AueteGuard",
+"jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+            "searchable": 1,
+            "changeable": 1,
+			"timeout": 10,
+			"ext": "https://auete.com/"
+        },
+        {
+            "key": "新6V",
+            "name": "新6V┃磁力",
+            "type": 3,
+            "api": "csp_SixVGuard",
+"jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+            "searchable": 1,
+            "changeable": 1,
+			"timeout": 10,
+            "ext":"https://www.xb6v.com/"
+        },
+        {
+            "key": "Ysj",
+            "name": "异界┃动漫",
+            "type": 3,
+            "api": "csp_YsjGuard",
+"jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+            "searchable": 1,
+            "changeable": 1,
+			"timeout": 10
+        },
+        {
+            "key": "Anime1",
+            "name": "日本┃动漫",
+            "type": 3,
+            "api": "csp_Anime1Guard",
+"jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+            "searchable": 1,
+            "changeable": 1,
+			"timeout": 10
+        },
+		{
+            "key": "926",
+            "name": "⚽926┃看球",
+            "type": 3,
+            "api": "csp_kanqiu926Guard",
+"jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+            "searchable": 0,
+            "changeable": 0,
+			"timeout": 10,
+			"style": {
+				"type": "list"
+			}
+        },
+		{
+            "key": "88",
+            "name": "⚽88┃看球",
+            "type": 3,
+            "api": "csp_Sir88Guard",
+"jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+            "searchable": 0,
+            "changeable": 0,
+			"timeout": 10,
+			"style": {
+				"type": "list"
+			}
+        },
+        {
+            "key": "MTV",
+            "name": "🎧明星┃MV",
+            "type": 3,
+            "api": "csp_BiliGuard",
+"jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+            "searchable": 0,
+            "changeable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"ext": {
+				"json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099584ed490195f7bf50ac60b9"
+			}
+        },
+        {
+            "key": "Aid",
+            "name": "🚑急救┃教学",
+            "type": 3,
+            "api": "csp_FirstAidGuard",
+"jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+            "searchable": 0,
+            "changeable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 3.8
+			}
+        },
+
     
      {
       "key": "低端影视",
