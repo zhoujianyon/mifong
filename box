@@ -153,8 +153,22 @@
             "changeable": 1,
             "jar": "https://tv.菜妮丝.top/jar/feimao0420.jar;md5;e853983962fe330f0aa8e242e7ac6c1c"
 		},
+   {"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://apijp.rinhome.com"},
         
-        
+        {
+      "key": "csp_xb_zxzj",
+      "name": "在线之家(XBiu)",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://home.jundie.top:666/json/XBiu/zxzj.json"
+    },
+
+  {"key": "荐片","name": "🎬┃荐片┃影视","api": "csp_Jianpian","type": 3,"playerType": "2","ext": "http://api2.rinhome.com","jar": "https://raw.liucn.cc/box/libs/jar/Panda.jar"
+    },
+
         {
             "key": "荐片",
             "name": "荐片┃P2P",
