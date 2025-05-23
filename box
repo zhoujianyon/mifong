@@ -158,12 +158,12 @@
 
   {
             "key": "荐片",
-            "name": "荐片┃P2P",
+            "name": "荐片┃PP",
             "type": 3,
             "api": "csp_JPJGuard",
             "searchable": 1,
             "changeable": 1,
-   "jar": "https://tv.菜妮丝.top/jar/fm0414.jar;md5;fd389e3446f23e76f9112a2097d81884",
+   "jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
 			"timeout": 10
         },
 
