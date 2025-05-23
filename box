@@ -10,7 +10,23 @@
   "spider": "http://154.12.37.204:8089/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
-  
+
+   
+{"key": "量子资源","name": "🥑量子资源","type": 1,"api": "http://cj.lziapi.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"categories": [ "国产剧", "国产动漫","泰国剧", "台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},
+{"key":"wlzy", "name":"🎥┃卧龙┃资源", "type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
+{"key":"wjzy", "name":"🎥┃无尽┃资源", "type":1,"api":"https://api.wujinapi.me/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
+{"key":"hhzy", "name":"🎥┃豪华┃资源", "type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
+{"key":"snzy", "name":"🎥┃索尼┃资源", "type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
+{"key":"hnzy", "name":"🎥┃红牛┃资源", "type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
+{"key":"gszy", "name":"🎥┃光速┃资源", "type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
+
+   {
+      "key": "drpy_js_豆瓣",
+      "name": "🔥公众号【盒子迷】4K",
+      "type": 3,
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
+    },
      {
       "key": "FreeOk",
       "name": "公众号【盒子迷】",
@@ -20,14 +36,48 @@
       "searchable": 1,
       "filterable": 1
     },
-   
-{"key": "量子资源","name": "🥑量子资源","type": 1,"api": "http://cj.lziapi.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"categories": [ "国产剧", "国产动漫","泰国剧", "台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},
-{"key":"wlzy", "name":"🎥┃卧龙┃资源", "type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
-{"key":"wjzy", "name":"🎥┃无尽┃资源", "type":1,"api":"https://api.wujinapi.me/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
-{"key":"hhzy", "name":"🎥┃豪华┃资源", "type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
-{"key":"snzy", "name":"🎥┃索尼┃资源", "type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
-{"key":"hnzy", "name":"🎥┃红牛┃资源", "type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
-{"key":"gszy", "name":"🎥┃光速┃资源", "type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
+{
+      "key": "小胡",
+      "name": "🔥┃小胡┃4K",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/",
+      "jar": "http://xiaohu.xzam.cn/jar/1.jar"
+    },
+    {
+          "key": "csp_Mp4Mov",
+          "name": "🧲┃Mp4┃4k",
+          "type": 3,
+          "api": "csp_Mp4Mov",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
+        },
+    
+    
+        {
+          "key": "csp_SeedHub",
+          "name": "🧲┃SeedHub┃4k",
+          "type": 3,
+          "api": "csp_SeedHub",
+          "playerType": 1,
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
+        },
+  {
+          "key": "七新",
+          "name": "👼┃七新┃2K",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "http://rihou.vip:88/hccx/七新影视.json",
+        "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
+        },
 
        {
             "key": "非凡",
