@@ -10,6 +10,15 @@
   "spider": "http://154.12.37.204:8089/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
+ 
+{
+            "key": "非凡",
+            "name": "🎬非凡┃影视",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1
+        },
 
    
 {"key": "量子资源","name": "🥑量子资源","type": 1,"api": "http://cj.lziapi.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"categories": [ "国产剧", "国产动漫","泰国剧", "台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},
@@ -20,7 +29,19 @@
 {"key":"hnzy", "name":"🎥┃红牛┃资源", "type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"gszy", "name":"🎥┃光速┃资源", "type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 
-     {
+   {
+            "key": "荐片",
+            "name": "荐片┃PP",
+            "type": 3,
+            "api": "csp_JPJGuard",
+            "searchable": 1,
+            "changeable": 1,
+   "jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+			"timeout": 10
+        },   
+
+
+{
       "key": "FreeOk",
       "name": "公众号【盒子迷】",
       "type": 3,
@@ -30,15 +51,7 @@
       "filterable": 1
     },
 
-       {
-            "key": "非凡",
-            "name": "非凡┃影视",
-            "type": 1,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-
+     
       {
             "key": "豆瓣",
             "name": "豆瓣┃推荐",
@@ -49,16 +62,6 @@
 "jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50"
         },
 		
-		{
-			"key": "潮流",
-			"name": "潮流┃影视",
-			"type": 3,
-			"api": "csp_AppRJ",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://tv.菜妮丝.top/jar/feimao0420.jar;md5;e853983962fe330f0aa8e242e7ac6c1c",
-			"ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
-		},
 		{
 			"key": "梦回",
 			"name": "梦回┃影视",
@@ -163,20 +166,7 @@
             "jar": "https://tv.菜妮丝.top/jar/feimao0420.jar;md5;e853983962fe330f0aa8e242e7ac6c1c"
 		},
 
-      
-
-  {
-            "key": "荐片",
-            "name": "荐片┃PP",
-            "type": 3,
-            "api": "csp_JPJGuard",
-            "searchable": 1,
-            "changeable": 1,
-   "jar": "https://tv.菜妮丝.top/jar/fty0414.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
-			"timeout": 10
-        },
-
-       
+            
        
 {
             "key": "哔哩哔哩",
