@@ -1186,22 +1186,6 @@
       "type": 0,
       "url": "https://盒子迷.top/ZB",
       "playerType": 1
-    },
-    {
-      "name": "甜皮鸭",
-      "type": 0,
-      "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737651956313/tptv.m3u",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.cn/tv/{name}.png",
-      "ua": "wexfnw",
-      "timeout": 10
-    },
-    {
-      "name": "范明明",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15"
     }
   ],
   "flags": [
