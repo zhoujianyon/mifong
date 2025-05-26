@@ -1179,14 +1179,8 @@
       "type": 0,
       "url": "https://mifong.jzhoukbs.ip-ddns.com/zb",
       "playerType": 1
-    },   
-
-{
-      "name": "盒子迷live",
-      "type": 0,
-      "url": "https://盒子迷.top/ZB",
-      "playerType": 1
     }
+
   ],
   "flags": [
     "youku",
